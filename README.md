@@ -1,3 +1,3 @@
 # HomePage
  
-<img src="./Homepage/index.html"/>
+<img src="./HomePage/index.html"/>

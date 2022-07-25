@@ -1,5 +1,5 @@
 # HomePage
  
-<img src="./HomePage/index.html"/>
+<img src="./HomePage/layout-home.png"/>
 
 ## By Leonardo
